@@ -1,7 +1,9 @@
 # Bank-ATM-System
 
+## To run the project.
+> make sure that you put the files **"MyLib.h"**, **"Clients.txt"**, **"ClientsTransactions.txt"** and **"Users.txt"** in the same project folder to be able to run the Project.
 ## Paradigm used in this project.
-> Bank system using procedural programming paradigm.
+> Bank system using procedural programming paradigm with +1900 lines of code (just one line in the **main** function).
 
 ## Features of this project:-
 > - There are two different projects - **Bank and ATM** - in the same of project for the sake of practicing.
@@ -17,7 +19,7 @@
 > - CRUD operations at the **USER** and **CLIENT** level.
 >> ![image](https://user-images.githubusercontent.com/16564006/218285930-e366eda7-a734-4adc-9a07-653265f2082b.png)
 >> ![image](https://user-images.githubusercontent.com/16564006/218285950-7ce0392a-fadb-4efb-aaae-3c5f91e77b24.png)
-> - there are Permissions for every **USER** to deal with the main menue screen options.
+> - There are Permissions for every **USER** to deal with the main menue screen options.
 >> ![image](https://user-images.githubusercontent.com/16564006/218286029-a776849b-c510-46d9-8517-13f152adce51.png)
 > - Transactions operations **Deposit**, **Withdraw** and **Transfer**.
 >> ![image](https://user-images.githubusercontent.com/16564006/218286343-64cd8d3b-1cff-4d5c-aca6-ac7fb13c13f8.png)
@@ -39,4 +41,3 @@
 >> - If we go to total transactions after doing transfer operation we will see that the operation is recorded and its status whether if sender or receiver and from **Branch Transfer** or it's **Online Transfer**.
 >> ![image](https://user-images.githubusercontent.com/16564006/218287144-713de67c-03c3-43a9-a986-bec23d450136.png)
 > - All the program is validated.
-
