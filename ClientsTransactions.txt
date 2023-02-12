@@ -1,0 +1,10 @@
+A1#//#2000.000000#//#Deposit#//#Fri Sep 30 01:25:30 2022#//#Branch
+A1#//#2000.000000#//#Withdraw#//#Fri Sep 30 01:25:55 2022#//#Branch
+A2#//#1000.000000#//#Deposit#//#Fri Sep 30 01:26:48 2022#//#Branch
+A3#//#2000.000000#//#Withdraw#//#Fri Sep 30 01:27:31 2022#//#Branch
+A1#//#1000.000000#//#Transfer (Sender)#//#Fri Sep 30 01:28:49 2022#//#Branch Transfer
+A2#//#1000.000000#//#Transfer (Reciever)#//#Fri Sep 30 01:28:49 2022#//#Branch Transfer
+A1#//#3000.000000#//#Deposit#//#Fri Sep 30 01:30:50 2022#//#ATM
+A1#//#2000.000000#//#Withdraw#//#Fri Sep 30 01:31:17 2022#//#ATM
+A1#//#1000.000000#//#Transfer (Sender)#//#Fri Sep 30 01:32:05 2022#//#Online Transfer
+A2#//#1000.000000#//#Transfer (Reciever)#//#Fri Sep 30 01:32:05 2022#//#Online Transfer
